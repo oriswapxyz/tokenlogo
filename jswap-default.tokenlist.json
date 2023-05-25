@@ -1,0 +1,25 @@
+{
+  "name": "Jediswap Labs List",
+  "timestamp": "2023-03-03T08:11:10.905Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "jediswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "JDai Stablecoin",
+      "address": "0x20e1cf906774a672ef94e523dd20fe5cc74386983553e8f80e9b096a8f8e109",
+      "symbol": "JDAI",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    }
+  ]
+}
