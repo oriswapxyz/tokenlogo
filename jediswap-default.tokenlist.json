@@ -14,14 +14,6 @@
   ],
   "tokens": [
     {
-      "name": "JDai Stablecoin",
-      "address": "0x20e1cf906774a672ef94e523dd20fe5cc74386983553e8f80e9b096a8f8e109",
-      "symbol": "JDAI",
-      "decimals": 18,
-      "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-    },
-    {
       "name": "Dai Stablecoin",
       "address": "0x00DA114221Cb83FA859dbdb4C44BeEAA0BB37c7537ad5aE66fe5E0efd20E6eB3",
       "symbol": "DAI",
