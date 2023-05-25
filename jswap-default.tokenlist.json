@@ -15,7 +15,7 @@
   "tokens": [
     {
       "name": "JDai Stablecoin",
-      "address": "0x20e1cf906774a672ef94e523dd20fe5cc74386983553e8f80e9b096a8f8e109",
+      "address": "0x020e1cf906774a672ef94e523dd20fe5cc74386983553e8f80e9b096a8f8e109",
       "symbol": "JDAI",
       "decimals": 18,
       "chainId": 5,
